@@ -11,4 +11,4 @@ A table will display which consist of Item Id, Product Name, Department, Price a
 
 ![screen shot 2](https://cloud.githubusercontent.com/assets/22923940/25248759/70f24836-25dd-11e7-92c2-ac2cc9bc8961.png)
 
-The application incorporates the mysql, inquirer, and console.table packages.
+The application incorporates mysql, inquirer, and console.table packages.
